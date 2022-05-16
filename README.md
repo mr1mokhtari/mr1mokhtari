@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Riza <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/az.svg">
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Riza <img src="https://flagicons.lipis.dev/flags/4x3/az.svg" height="20" width="30"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/tr.svg" height="20" width="30"> <img src="https://flagicons.lipis.dev/flags/4x3/ir.svg" height="10" width="15">
+- 👀 I’m interested in web dev and data science
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mr1mokhtari@gmail.com
 
